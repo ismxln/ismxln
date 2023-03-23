@@ -10,8 +10,6 @@
    
    
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch" height="40" width="40" /></a>
-   <a href="https://i3wm.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg" alt="i3wm" height="40" width="40" /></a>
 <!--
 **ismxln/ismxln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
