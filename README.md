@@ -1,26 +1,32 @@
-<h3 align="center">Hi there 👋<h4 align="center">
+<h2 align="center"> Hello there 👋</h2>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismxln&theme=dark" height="200" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismxln&layout=compact&theme=dark" height="200" width="500" />
+  
 
-<a href="https://www.hackerrank.com/maxelone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maxelone" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/maxelone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maxelone" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/mxln" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="maxelone" height="40" width="40" /></a>
+<p align="center"> 
+   <a> <img src="https://www.codewars.com/users/mxln/badges/large"> </a>
+</p>
+
+<p align="center"> 
+   <a> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  /> </a>
 </p>
    
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-   (<a href="https://www.jetbrains.com/ru-ru/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/> </a> + <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40"/> </a>)
+<p align="center"> 
+   <img src="https://komarev.com/ghpvc/?username=ismxln" />
+</p>
    
-   
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  
 <!--
-**ismxln/ismxln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  /> 
+<img src=""  /> <img src=""  /> <img src=""  /> <img src=""  /> <img src=""  /> <img src=""  />
+https://github.com/hendrasob/badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on python parsing *
+- 🌱 I’m currently learning python parsing *
+- 👯 I’m looking to collaborate on parsing n bots
+- 🤔 I’m looking for help with python *
+- 💬 Ask me about python *
+- 📫 How to reach me: tg in profile.
 -->
