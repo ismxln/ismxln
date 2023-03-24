@@ -1,7 +1,7 @@
 <h2 align="center"> Hello there 👋</h2>
   
 <p align="center"> 
-  <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismxln&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismxln&layout=compact&theme=dark"  /> </a>
+  <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismxln&theme=dark" width="355" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismxln&layout=compact&theme=dark"  /> </a>
 </p>
 
 <p align="center"> 
