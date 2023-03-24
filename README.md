@@ -1,6 +1,6 @@
 <h2 align="center"> Hello there 👋</h2>
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismxln&theme=dark" height="200" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismxln&layout=compact&theme=dark" height="200" width="500" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismxln&theme=dark" height="200" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismxln&layout=compact&theme=dark" height="200" width="400" />
   
 
 <p align="center"> 
