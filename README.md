@@ -5,11 +5,11 @@
 </p>
 
 <p align="center"> 
-   <a> <img src="https://www.codewars.com/users/mxln/badges/large"> </a>
+   <a href="https://www.codewars.com/users/mxln"> <img src="https://www.codewars.com/users/mxln/badges/large"> </a>
 </p>
 
 <p align="center"> 
-   <a> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  /> </a>
+   <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  /> </a>
 </p>
    
 <p align="center"> 
@@ -24,10 +24,4 @@
 <img src=""  /> <img src=""  /> <img src=""  /> <img src=""  /> <img src=""  /> <img src=""  />
 https://github.com/hendrasob/badges
 
-- 🔭 I’m currently working on python parsing *
-- 🌱 I’m currently learning python parsing *
-- 👯 I’m looking to collaborate on parsing n bots
-- 🤔 I’m looking for help with python *
-- 💬 Ask me about python *
-- 📫 How to reach me: tg in profile.
 -->
